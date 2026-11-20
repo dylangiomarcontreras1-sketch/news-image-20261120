@@ -1,5 +1,9 @@
 # World news, 20 November 2026 — in one image
 
+[![make.fun bounty: news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/c/news-image-20261120)
+[![rank in news-image-20261120](https://make.fun/badge/news-image-20261120/dylangiomarcontreras1-sketch/news-image-20261120/rank.svg)](https://make.fun/c/news-image-20261120)
+[![reward in news-image-20261120](https://make.fun/badge/news-image-20261120/dylangiomarcontreras1-sketch/news-image-20261120/reward.svg)](https://make.fun/c/news-image-20261120)
+
 An entry for the make.fun bounty [`news-image-20261120`](https://make.fun/c/news-image-20261120):
 one image that sums up the world's news of **Friday 20 November 2026**.
 
